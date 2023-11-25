@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmnadfaraz_01" target="blank"><img src="https://img.shields.io/twitter/follow/ahmnadfaraz_01?logo=twitter&style=for-the-badge" alt="ahmnadfaraz_01" /></a> </p>
 
-- 🔭 I’m currently working on **Discord Automations**
+- 🔭 I’m currently working on **AI Assistant**
 
 - 🌱 I’m currently learning **Adobe Courses**
 
