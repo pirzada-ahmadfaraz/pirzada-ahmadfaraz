@@ -45,7 +45,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/ahmnadfaraz_01" target="_blank">
+  <a href="https://x.com/pzahmadfaraz" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pirzadaahmadfaraz" target="_blank">
