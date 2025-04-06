@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pirzada Ahmad Faraz</h1>
-<h3 align="center">Future CSE Student • Python Beginner • Crypto & Blockchain Enthusiast</h3>
+<h3 align="center">CSE Student • Python Beginner • Crypto & Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Exploring+Crypto+%26+Blockchain;Python+Learner;Tech+Enthusiast+🚀" alt="Typing SVG" />
